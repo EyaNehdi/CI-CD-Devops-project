@@ -8,6 +8,9 @@ The goal is to automate the software development lifecycle, ensuring that code c
 ## Nexus Repository 
 <img src="https://raw.githubusercontent.com/EyaNehdi/CI-CD-Devops-project/refs/heads/NehdiEya_4TWIN5_Groupe2/images/NexusRepository.png">
 
+## Prometheus
+<img src="https://raw.githubusercontent.com/EyaNehdi/CI-CD-Devops-project/refs/heads/NehdiEya_4TWIN5_Groupe2/images/prometheus.png">
+
 ## Grafana Dashboard (Spring Boot Application) 
 <img src="https://raw.githubusercontent.com/EyaNehdi/CI-CD-Devops-project/refs/heads/NehdiEya_4TWIN5_Groupe2/images/GrafanaApp.png">
 
